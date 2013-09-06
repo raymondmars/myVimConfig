@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/raymond/myapp/raspberry'
+let g:netrw_dirhist_2='/Users/raymond/.emacs.d'
+let g:netrw_dirhist_3='/Users/raymond/gitdb/emacsd/color-theme-6.6.0'
+let g:netrw_dirhist_4='/Users/raymond/Dropbox/vimconfig/.vim/bundle/blackboard.vim'
+let g:netrw_dirhist_5='/Users/raymond/gitdb/workroom/config'
+let g:netrw_dirhist_6='/Users/raymond/myapp/follow-you-server/.git'
+let g:netrw_dirhist_7='/Users/raymond/myapp/followyouweb/.git'
