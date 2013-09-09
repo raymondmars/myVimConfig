@@ -77,10 +77,14 @@ set tabstop=2
 set cindent shiftwidth=2  
 set autoindent shiftwidth=2 
 
+
 " set 折叠
 set foldmethod=indent
 " 打开文件默认不折叠
 set foldlevelstart=99
+
+let g:vim_markdown_folding_disabled = 0
+
 
 "set my leader
 let mapleader=","
